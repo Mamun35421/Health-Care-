@@ -13,8 +13,9 @@ const Footer = () => {
         <div className='container-footer'>
             <div className="row">
                 <div className="col-md-4">
-                    <p>NH Course Zone{element}</p>
-                    <h3>{element2} 0172524295*</h3>
+                    <p>MR
+                     Course Zone{element}</p>
+                    <h3>{element2} 01627286094*</h3>
 
                     <small>{element3}  H:202 R:45 Sector:10</small>
                     <p>Uttara Dhaka 1230</p>
