@@ -18,7 +18,7 @@ const Footer = () => {
                     <h3>{element2} 01627286094*</h3>
 
                     <small>{element3}  H:202 R:45 Sector:10</small>
-                    <p>Uttara Dhaka 1230</p>
+                    <p>Brahmanbaria Health Care</p>
 
                 </div>
 
